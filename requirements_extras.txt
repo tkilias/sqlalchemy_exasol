@@ -1,1 +1,1 @@
-turbodbc>=1.1.0
+turbodbc==3.4.0
