@@ -22,6 +22,8 @@ jobs:
           - 6.2.6-d1
           - 6.1.9-d1
           - 6.0.16-d1
+          - 6.1.1-d1
+          - 6.2.3-d1
     steps:
 
     - name: Fetch sqlalchemy_exasol code from repository
